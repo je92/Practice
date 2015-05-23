@@ -2,7 +2,7 @@
 using namespace std;
 
 /* Problem #1 from codeabbey.com
- * program takes 2 integers from user input and prints to std output */
+ * program takes 2 integers from user input and prints their sum */
 
 int main()
 {
