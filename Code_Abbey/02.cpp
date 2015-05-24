@@ -1,12 +1,12 @@
-#include <iostream>
-using namespace std;
-
 /* Code Abbey Problem #2
 
 Input data has the following format:
   <>N - amount of values to sum
   <>User then inputs N number of values
 */
+
+#include <iostream>
+using namespace std;
 
 int main()
 {
