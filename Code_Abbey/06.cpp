@@ -23,12 +23,12 @@ int main()
 
         if(z > 0)
         {
-           round=z+0.5;
+           round = z + 0.5;
            cout << round << " ";
         }
         else
         {
-            round=z-0.5;
+            round = z - 0.5;
             cout << round << " ";
         }
     }
