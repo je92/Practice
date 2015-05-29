@@ -1,3 +1,6 @@
+/* Code Abbey Problem #7
+ * Fahrenheit to Celsius Calculator
+ */
 #include <iostream>
 using namespace std;
 
